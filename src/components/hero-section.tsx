@@ -41,11 +41,11 @@ export default function HeroSection() {
                 Hello there, I am Ahmadanisa!
               </h2>
               <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold opacity-0 animate-fade-in-up animation-delay-400">
-                <span className="text-blue-600 bg-gradient-to-r from-blue-600 to-blue-700 bg-clip-text text-transparent">
+                <span className="text-blue-600 bg-gradient-to-r from-blue-600 to-blue-700 bg-clip-text">
                   Full-Stack Web
                 </span>
                 <br />
-                <span className="text-blue-600 bg-gradient-to-r from-blue-600 to-blue-700 bg-clip-text text-transparent">
+                <span className="text-blue-600 bg-gradient-to-r from-blue-600 to-blue-700 bg-clip-text">
                   Developer
                 </span>
               </h1>
@@ -99,7 +99,7 @@ export default function HeroSection() {
               <div className="relative w-64 h-64 sm:w-80 sm:h-80 lg:w-96 lg:h-96 bg-gradient-to-br from-gray-900 to-black rounded-2xl sm:rounded-3xl overflow-hidden shadow-2xl hover:shadow-3xl transition-all duration-500 group-hover:scale-105">
                 <Image
                   src="/images/foto-profile.jpg"
-                  alt="Brendan Eich Profile"
+                  alt="Ahmadanisa Profile"
                   width={400}
                   height={400}
                   className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110"

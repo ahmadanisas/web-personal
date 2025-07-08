@@ -118,11 +118,10 @@ const AboutMeSection: FC = () => {
         <div className="mb-12 sm:mb-16 md:mb-20 opacity-0 animate-fade-in-up animation-delay-400">
           <div className="text-center mb-8 sm:mb-10 md:mb-12">
             <h3 className="text-2xl sm:text-3xl md:text-4xl font-bold bg-gradient-to-r from-blue-600 to-blue-700 bg-clip-text text-transparent mb-3 sm:mb-4">
-              Artistic Expertise
+              Expertise
             </h3>
             <p className="text-gray-600 text-sm sm:text-base md:text-lg px-4">
-              Core competencies that define my creative approach and program
-              identity
+              Core competencies that define my professional skill set
             </p>
           </div>
 
@@ -162,8 +161,7 @@ const AboutMeSection: FC = () => {
               Core Values
             </h3>
             <p className="text-gray-600 text-sm sm:text-base md:text-lg px-4">
-              Fundamental principles that guide my artistic vision and creative
-              decisions
+              Fundamental principles that guide my work and interactions
             </p>
           </div>
 

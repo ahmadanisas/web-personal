@@ -44,7 +44,7 @@ export default function ContactSection() {
           <div className="space-y-8 animate-fade-in-up">
             <div className="space-y-4">
               <h1 className="text-4xl lg:text-5xl font-bold opacity-0 animate-fade-in-up animation-delay-200">
-                <span className="text-blue-600 bg-gradient-to-r from-blue-600 to-blue-700 bg-clip-text text-transparent">
+                <span className="text-blue-600 bg-gradient-to-r from-blue-600 to-blue-700 bg-clip-text">
                   Let's work together!
                 </span>
               </h1>
